@@ -21,6 +21,7 @@ const thibault = {
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Svelte.js : le compilateur en guise de framework](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8?source=rss-c1fcbf0a3e97------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
