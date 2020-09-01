@@ -21,7 +21,7 @@ const thibault = {
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte.js : introduction to the “compiler as a framework”](https://medium.com/@nilmanduil/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
+- [Svelte.js : introduction to the “compiler as a framework”](https://medium.com/better-programming/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
 - [Svelte.js : le compilateur en guise de framework](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8?source=rss-c1fcbf0a3e97------2)
 <!-- BLOG-POST-LIST:END -->
 
