@@ -14,7 +14,7 @@
 const thibault = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [Node, Svelte, AngularJS, Angular, Ionic, Vue],
+  tools: [Node, Svelte, AngularJS, Angular, Ionic, Vue, React, React Native],
   challenge: "I am working on a PWA for managing electronic components & projects"
 }
 ```
