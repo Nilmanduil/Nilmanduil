@@ -15,7 +15,7 @@ const thibault = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [Node, Svelte, AngularJS, Angular, Ionic, Vue],
-  challenge: "I am working on a virtual substitute to little stressballs to launch at coworkers"
+  challenge: "I am working on a PWA for managing electronic components & projects"
 }
 ```
 
