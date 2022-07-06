@@ -21,8 +21,9 @@ const thibault = {
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte.js — An Introduction to the Compiler as a Framework](https://medium.com/better-programming/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
-- [Svelte.js : le compilateur en guise de framework](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8?source=rss-c1fcbf0a3e97------2)
+- [Les chakras du développeur](https://nilmanduil.medium.com/les-chakras-du-d%C3%A9veloppeur-38ea19edf9c6?source=rss-c1fcbf0a3e97------2)
+- [Svelte.js — An Introduction to the Compiler as a Framework](https://betterprogramming.pub/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
+- [Svelte.js : le compilateur en guise de framework](https://nilmanduil.medium.com/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8?source=rss-c1fcbf0a3e97------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
