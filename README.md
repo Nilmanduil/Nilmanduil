@@ -22,7 +22,7 @@ const thibault = {
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Les chakras du développeur](https://nilmanduil.medium.com/les-chakras-du-d%C3%A9veloppeur-38ea19edf9c6?source=rss-c1fcbf0a3e97------2)
-- [Svelte.js — An Introduction to the Compiler as a Framework](https://medium.com/better-programming/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
+- [Svelte.js — An Introduction to the Compiler as a Framework](https://betterprogramming.pub/svelte-js-introduction-to-the-compiler-as-a-framework-43555046868b?source=rss-c1fcbf0a3e97------2)
 - [Svelte.js : le compilateur en guise de framework](https://nilmanduil.medium.com/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8?source=rss-c1fcbf0a3e97------2)
 <!-- BLOG-POST-LIST:END -->
 
